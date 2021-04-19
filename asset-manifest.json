@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/phone/static/css/main.bec73e32.chunk.css",
-    "main.js": "/phone/static/js/main.26393cd8.chunk.js",
-    "main.js.map": "/phone/static/js/main.26393cd8.chunk.js.map",
+    "main.js": "/phone/static/js/main.68a1da23.chunk.js",
+    "main.js.map": "/phone/static/js/main.68a1da23.chunk.js.map",
     "runtime-main.js": "/phone/static/js/runtime-main.acca85ff.js",
     "runtime-main.js.map": "/phone/static/js/runtime-main.acca85ff.js.map",
     "static/js/2.c4b8c181.chunk.js": "/phone/static/js/2.c4b8c181.chunk.js",
@@ -13,15 +13,15 @@
     "static/css/main.bec73e32.chunk.css.map": "/phone/static/css/main.bec73e32.chunk.css.map",
     "static/js/2.c4b8c181.chunk.js.LICENSE.txt": "/phone/static/js/2.c4b8c181.chunk.js.LICENSE.txt",
     "static/media/ar_pets.dd892f3c.svg": "/phone/static/media/ar_pets.dd892f3c.svg",
-    "static/media/cutePug.37ee3dfa.glb": "/phone/static/media/cutePug.37ee3dfa.glb",
-    "static/media/floor_wood.b86cb6dc.jpg": "/phone/static/media/floor_wood.b86cb6dc.jpg",
-    "static/media/iphone.f9dfe685.glb": "/phone/static/media/iphone.f9dfe685.glb",
-    "static/media/wood.dbd4b830.jpg": "/phone/static/media/wood.dbd4b830.jpg"
+    "static/media/cutePug.52dfe84a.glb": "/phone/static/media/cutePug.52dfe84a.glb",
+    "static/media/floor_wood.7277e788.jpg": "/phone/static/media/floor_wood.7277e788.jpg",
+    "static/media/iphone.5f8062a5.glb": "/phone/static/media/iphone.5f8062a5.glb",
+    "static/media/wood.9936b523.jpg": "/phone/static/media/wood.9936b523.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.acca85ff.js",
     "static/js/2.c4b8c181.chunk.js",
     "static/css/main.bec73e32.chunk.css",
-    "static/js/main.26393cd8.chunk.js"
+    "static/js/main.68a1da23.chunk.js"
   ]
 }
